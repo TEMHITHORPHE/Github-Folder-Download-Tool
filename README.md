@@ -13,6 +13,12 @@ TODO:
 
 [-] Anything! you! think! will! make! it! awesome!
 
-Have fun!!!
+
+** Track future changes and development in my repository
+
+[-] https://github.com/TEMHITHORPHE/Github-Folder-Download-Tool
+
+
+Author: https://github.com/TEMHITHORPHE
 
 email: tehmhithorphe@gmail.com
