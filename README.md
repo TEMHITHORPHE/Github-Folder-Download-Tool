@@ -6,7 +6,9 @@ NOTES: Accepts a github folder url as input and downloads the entire content of 
 TODO:
 
 [-] Proper and Xtensive Error handling ... the tool is still in it's early stages ...
+
 [-] Implement the tool using svn ...
+
 [-] Anything! you! think! will! make! it! awesome!
 
 ** Track future changes and development in my repository
